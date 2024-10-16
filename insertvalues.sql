@@ -3,3 +3,4 @@ INSERT INTO natwest (firstname, rollnumber) VALUES ('Jamie',2);
 INSERT INTO natwest (firstname, rollnumber) VALUES ('Kalyan',3);
 INSERT INTO natwest (firstname, rollnumber) VALUES ('Nikita',4);
 INSERT INTO natwest (firstname, rollnumber) VALUES ('Veera',5);
+INSERT INTO natwest (firstname, rollnumber) VALUES ('Ramesh',6);
